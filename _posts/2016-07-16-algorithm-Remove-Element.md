@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remove Element
+title: algorithm Remove Element
 categories: blog
 tag: algorithm, array
 markdown: redcarpet
