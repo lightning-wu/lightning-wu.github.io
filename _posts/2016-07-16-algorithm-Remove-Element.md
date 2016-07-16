@@ -22,15 +22,14 @@ Given input array nums = [3,2,2,3], val = 3.Your function should return length =
 > 使用两个指针i,j 一前一后；j遍历数组nums，i指向最新的有效元素
 
 ## 算法
-分析nums[j] 与 val的关系
-
-case：nums[j] = val
-　　跳过nums[j], j后移
+> 分析nums[j] 与 val的关系
+> 
+> case：nums[j] = val
+> 　　跳过nums[j], j后移
 　　
-case: nums[j] != val
-　　nums[i] <= nums[j]
-　　
-　　i, j同时后移
+> case: nums[j] != val
+> 　　nums[i] <= nums[j]
+>     i, j同时后移
   
   
 ## 示例代码
