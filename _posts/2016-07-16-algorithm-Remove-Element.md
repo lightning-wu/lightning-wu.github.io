@@ -30,7 +30,8 @@ case: nums[j] != val
  　　nums[i] <= nums[j]
       i, j同时后移
 ```
-  
+
+
 ## 示例代码
 ```
 public int removeElement(int[] nums, int val) {
