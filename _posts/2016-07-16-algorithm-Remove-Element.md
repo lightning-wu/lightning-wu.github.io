@@ -8,7 +8,7 @@ markdown: redcarpet
 
 # Remove Element
 
-##[问题](https://leetcode.com/problems/remove-element/)
+## [问题](https://leetcode.com/problems/remove-element/)
 
 > Given an array and a value, remove all instances of that value in place and return the new length.Do not allocate extra space for another array, you must do this in place with constant memory.The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
@@ -51,8 +51,7 @@ public int removeElement(int[] nums, int val) {
 
 ## 算法分析
 > 时间复杂度：O(n)
-
-空间复杂度：O(1)
+  空间复杂度：O(1)
 
 ## 进阶问题
 > 如果nums中只存在少数val？
