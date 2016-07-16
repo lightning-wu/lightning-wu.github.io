@@ -23,12 +23,12 @@ Given input array nums = [3,2,2,3], val = 3.Your function should return length =
 
 ## 算法
 分析nums[j] 与 val的关系
-case：nums[j] = val
 
+case：nums[j] = val
 　　跳过nums[j], j后移
 　　
-case: nums[j] 　$\neq$ 　val
-　　nums[i]　 $\Leftarrow$ 　nums[j]
+case: nums[j] != val
+　　nums[i] <= nums[j]
 　　
 　　i, j同时后移
   
@@ -50,13 +50,12 @@ public int removeElement(int[] nums, int val) {
 ```
 
 ## 算法分析
-> 时间复杂度：O(n)
-  空间复杂度：O(1)
+> 时间复杂度：O(n),空间复杂度：O(1)
 
 ## 进阶问题
 > 如果nums中只存在少数val？
 
-　　　思考中。。。
+　　思考中。。。
 
 
 
