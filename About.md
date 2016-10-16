@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "嘿，你总算找到我啦"
+description: "Long no see"
 header-img: "img/plane.jpg"
 ---
 
@@ -9,14 +9,13 @@ header-img: "img/plane.jpg"
     <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
 
 认识自己，从而更好的热爱社会，用心去体会大自然的美，让生活变得更美好！
 
-——Azeril
+——lightning-wu
 
 
-> Live long and prosper
+> happy in life 
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
