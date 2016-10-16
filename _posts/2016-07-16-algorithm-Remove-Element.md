@@ -2,7 +2,8 @@
 layout: post
 title: algorithm Remove Element
 categories: blog
-tag: algorithm, array
+tag: algorithm
+     array
 markdown: redcarpet
 ---
 
